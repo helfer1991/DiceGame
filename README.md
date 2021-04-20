@@ -6,4 +6,6 @@
 
 * If the dice rolls a "1", the active player will lose the score of the current round and the other player will start another round.
 
-* The project is still unfinished.
+* Below there's the starting state of the project
+
+![DiceGame](projectGame.png)
