@@ -103,4 +103,8 @@ holdBtn.addEventListener('click', () => {
 newBtn.addEventListener('click', () => {
     resettingScores();
     resettingHtmlClasses('player--winner', 'player--active');
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 297c2b7a21366f3e4065f196aa74df1871dfd70b
